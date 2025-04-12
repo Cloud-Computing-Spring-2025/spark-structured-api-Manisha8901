@@ -1,4 +1,3 @@
----
 
 ```markdown
 # 🎵 Assignment 3 – Music Recommendation System
