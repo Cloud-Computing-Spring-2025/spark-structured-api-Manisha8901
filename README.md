@@ -1,5 +1,3 @@
-
-
 ---
 
 ```markdown
@@ -102,25 +100,4 @@ python generate_songs_metadata.py
 
 ---
 
-## 🚫 Common Error
 
-If you see:
-
-```
-FileNotFoundError: [WinError 2] The system cannot find the file specified
-```
-
-This means Java is either not installed or `JAVA_HOME` is not set. Please follow the Java setup instructions above.
-
----
-
-## 👩‍💻 Author
-
-**Manisha Chowdary Aeinedi**  
-Master’s in Data Science  
-UNC Charlotte
-
----
-```
-
-Let me know if you want to include output samples, visualizations, or screenshots next!
